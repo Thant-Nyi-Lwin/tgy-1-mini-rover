@@ -11,10 +11,7 @@ Taunggyi is a city located on the Shan mountain range in eastern Myanmar, and it
 
 The project began during Reading Week of Winter 2026 when I found myself struggling with insomnia. For several nights, I worked on the CAD design from around 3 a.m. until sunrise. While working on the rover, I listened to old Burmese songs that I used to hear growing up, which made me feel homesick. Because of that, I decided to name the rover after my hometown.
 
-Since the name _Taunggyi_ litearlly translates as "Big Mountain", I thought it would be ironic and fitting name for this mini rover. 
-
-
-
+Since the name _Taunggyi_ literally translates to "Big Mountain", I thought it would be an ironic yet fitting name for this mini rover. 
 
 **Features**
 
